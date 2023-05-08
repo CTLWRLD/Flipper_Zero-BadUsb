@@ -1,7 +1,4 @@
-REM Author: overwraith
-REM Description: Opens a few Tabs...
-REM Version: 1.0
-REM Category: FUN
+
 DELAY 1200
 GUI r
 DELAY 400
